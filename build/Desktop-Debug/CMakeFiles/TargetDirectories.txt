@@ -1,0 +1,9 @@
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/Alfons.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/install.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/Alfons_autogen_timestamp_deps.dir
+/home/kranks/Alfons/build/Desktop-Debug/CMakeFiles/Alfons_autogen.dir
