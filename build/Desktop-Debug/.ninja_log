@@ -1,9 +1,0 @@
-# ninja log v7
-9	457	1764333425896318398	Alfons_autogen/timestamp	39fe4a297fcdd88e
-9	457	1764333425896318398	Alfons_autogen/mocs_compilation.cpp	39fe4a297fcdd88e
-9	457	1764333425896318398	/home/kranks/Alfons/build/Desktop-Debug/Alfons_autogen/timestamp	39fe4a297fcdd88e
-9	457	1764333425896318398	/home/kranks/Alfons/build/Desktop-Debug/Alfons_autogen/mocs_compilation.cpp	39fe4a297fcdd88e
-458	2744	1764333425913317936	CMakeFiles/Alfons.dir/Alfons_autogen/mocs_compilation.cpp.o	25c1ac579d5c50a3
-458	2955	1764333425913982222	CMakeFiles/Alfons.dir/main.cpp.o	4f1bc7fcb657466e
-458	3293	1764333425914107530	CMakeFiles/Alfons.dir/mainwindow.cpp.o	2919c57d0b02e332
-3293	3581	1764333428748240824	Alfons	265d2ce1c1ddc635
